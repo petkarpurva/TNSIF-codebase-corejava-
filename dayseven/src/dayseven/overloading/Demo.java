@@ -1,6 +1,7 @@
 package dayseven.overloading;
 
 public class Demo {
+	
 public static void main(String[] args) {
 		
 		Point p= new Point(); // default
@@ -14,5 +15,6 @@ public static void main(String[] args) {
 		System.out.println(MethodOverloading.addition(1, 2, 3));
 
 	}
+
 
 }
