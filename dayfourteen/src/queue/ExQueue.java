@@ -1,10 +1,10 @@
-package dayfourteen;
+package queue;
 
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class ExQueue{
+public class ExQueue {
 
 	public static void main(String[] args) {
 		
@@ -39,6 +39,12 @@ public class ExQueue{
 		System.out.println(r.poll());
 		System.out.println(r);
 		
-		System.out.println(r.retainAll(r));		
+		System.out.println(r.retainAll(r));
+		
+		
+		
+		
+		
+		
 	}
 }

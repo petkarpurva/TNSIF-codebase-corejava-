@@ -1,4 +1,4 @@
-package dayfourteen;
+package queue;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
